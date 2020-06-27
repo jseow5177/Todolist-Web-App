@@ -21,6 +21,5 @@ Learning outcomes:
 <li> Deploy web app on Heroku.</li>
 </ul>
 
-You can have a look at the web app <a href="https://aqueous-badlands-59180.herokuapp.com/">here</a>. Cheers!
 
 
